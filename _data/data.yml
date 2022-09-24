@@ -1,5 +1,5 @@
 basic:
-  name: Sushil Verma
+  name: [WIP] - Sushil Verma
   title: Software Engineer Technical Leader
   avatar:
     display: true
@@ -9,7 +9,7 @@ contact:
   location:
   email: sushil.verma@hotmail.com
   phone: +91-9972-741-020
-  website: https://timesofcloud.com
+  website: timesofcloud.com
   wechat:
   whatsapp:
   telegram:
@@ -18,22 +18,20 @@ contact:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin:
+  linkedin: in/sushil-verma-he-him-80554b22/
   medium:
-  twitter: twitter
+  twitter: vermanotes
   stackoverflow:
-  quora:
+  quora: vermanotes
   goodreads:
 
 profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    A DevOps practitioner, Kubernetes Advocate, and Blockchain visionary
+    with 15+ years of experience in SDLC, Operations, AWS Cloud, 
+    Infrastructure CI/CD and many more...
 
 experiences:
   display: true
