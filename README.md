@@ -34,7 +34,7 @@ Setting the Github pages source branch in `settings -> Github Pages -> source`, 
 
 ![](https://github.com/tarrex/online-resume/raw/master/assets/images/source.png "select github pages source branch")
 
-Wait a little while, open `https://YOUR_GITHUB_USERNAME.github.io/online-resume` in your browser. You can see your resume.
+Wait a little while, open [https://sushiver.github.io/about-me](https://sushiver.github.io/about-me) in your browser. You can see your resume.
 
 with profile photo:
 
