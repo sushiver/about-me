@@ -37,29 +37,56 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Software Engineering Technical Leader
+      time: 2019.07 - till date
+      company: Cisco Systems India Pvt. Ltd.
       tag:
-      location: Beijing
+      location: Bengaluru, India
       details: |
         Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+        + Java, GoLang
+        + Javascript, CSS, HTML, Shell Script
+        + CI/CD, Git, Jenkins
+        + Chef, Puppet
+        + IBM Cloud
+        
+    - role: Software Engineering DevOps Architect
+      time: 2015.06 - 2019.06
+      company: IBM India Pvt. Ltd.
+      tag:
+      location: Bengaluru, India
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Java, GoLang
+        + Javascript, CSS, HTML, Shell Script
+        + CI/CD, Git, Jenkins
+        + Chef, Puppet
+        + IBM Cloud
+        
+    - role: Cloud Engineer
+      time: 2012.06 - 2015.05
+      company: Toshiba Software India Pvt. Ltd.
+      tag:
+      location: Bengaluru, India
+      details: |
+        Experience in this company:
+        + Java
+        + Javascript, CSS, HTML, Shell Script
+        + CI/CD, Git, Jenkins
+        + Chef, Puppet
+        + AWS Cloud
 
-        ...
+    - role: Software Engineer
+      time: 2008.08 - 2012.06
+      company: AppLabs India Pvt Ltd
+      tag: Full-time
+      location: Hyderabada, India
+      details: |
+        Experience in this company:
+        + Java, PHP
+        + Javascript, CSS, HTML, Shell Script
+        + Linux, Git, VSS
+        + AWS Cloud, Jenkins
 
 projects:
   display: true
